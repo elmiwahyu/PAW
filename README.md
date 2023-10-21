@@ -8,4 +8,4 @@ Halaman Pemesanan Tiket
 ![img](Screenshot1.png)
 
 Halaman Menampilkan pop up detai pemesanan tiket
-![img](Screenshot 2.png)
+![img](Screenshot2.png)
